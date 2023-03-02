@@ -16,3 +16,9 @@ export OPENAI_API_KEY='YOUR PERSONAL API KEY'
 ```
 pip3 install openai
 ```
+
+## Usage
+
+```
+python3 main.py
+```
